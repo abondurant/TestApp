@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\TestApp",
-    "\\TestApp\\Views",
-    "\\TestApp\\Views\\UI"
+    ""
   ],
-  "SelectedNode": "\\TestApp\\Views\\UI\\Search.aspx",
+  "SelectedNode": "\\TestApp.sln",
   "PreviewInSolutionExplorer": false
 }
